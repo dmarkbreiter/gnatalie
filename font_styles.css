@@ -1,0 +1,9 @@
+@font-face {
+            font-family: KievitOT-Book;
+            src: url(KievitOT-Book.ttf);
+            }
+
+.info_body{ 
+   			font-family: KievitOT-Book;
+   			font-size: 15px;
+			}
